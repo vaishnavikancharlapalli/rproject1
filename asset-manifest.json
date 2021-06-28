@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/movies-website/static/css/main.2f83ca5d.chunk.css",
-    "main.js": "/movies-website/static/js/main.384f1293.chunk.js",
-    "main.js.map": "/movies-website/static/js/main.384f1293.chunk.js.map",
-    "runtime-main.js": "/movies-website/static/js/runtime-main.547f002b.js",
-    "runtime-main.js.map": "/movies-website/static/js/runtime-main.547f002b.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/movies-website/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.2270000b.chunk.js": "/movies-website/static/js/2.2270000b.chunk.js",
-    "static/js/2.2270000b.chunk.js.map": "/movies-website/static/js/2.2270000b.chunk.js.map",
-    "static/js/3.394ff795.chunk.js": "/movies-website/static/js/3.394ff795.chunk.js",
-    "static/js/3.394ff795.chunk.js.map": "/movies-website/static/js/3.394ff795.chunk.js.map",
-    "index.html": "/movies-website/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/movies-website/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.2f83ca5d.chunk.css.map": "/movies-website/static/css/main.2f83ca5d.chunk.css.map",
-    "static/js/2.2270000b.chunk.js.LICENSE.txt": "/movies-website/static/js/2.2270000b.chunk.js.LICENSE.txt"
+    "main.css": "/react_shoplane_website/static/css/main.3d869f7c.chunk.css",
+    "main.js": "/react_shoplane_website/static/js/main.dc36705a.chunk.js",
+    "main.js.map": "/react_shoplane_website/static/js/main.dc36705a.chunk.js.map",
+    "runtime-main.js": "/react_shoplane_website/static/js/runtime-main.c83dc06e.js",
+    "runtime-main.js.map": "/react_shoplane_website/static/js/runtime-main.c83dc06e.js.map",
+    "static/css/2.6dbb7484.chunk.css": "/react_shoplane_website/static/css/2.6dbb7484.chunk.css",
+    "static/js/2.9b18cdba.chunk.js": "/react_shoplane_website/static/js/2.9b18cdba.chunk.js",
+    "static/js/2.9b18cdba.chunk.js.map": "/react_shoplane_website/static/js/2.9b18cdba.chunk.js.map",
+    "static/js/3.e5d47578.chunk.js": "/react_shoplane_website/static/js/3.e5d47578.chunk.js",
+    "static/js/3.e5d47578.chunk.js.map": "/react_shoplane_website/static/js/3.e5d47578.chunk.js.map",
+    "index.html": "/react_shoplane_website/index.html",
+    "static/css/2.6dbb7484.chunk.css.map": "/react_shoplane_website/static/css/2.6dbb7484.chunk.css.map",
+    "static/css/main.3d869f7c.chunk.css.map": "/react_shoplane_website/static/css/main.3d869f7c.chunk.css.map",
+    "static/js/2.9b18cdba.chunk.js.LICENSE.txt": "/react_shoplane_website/static/js/2.9b18cdba.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/react_shoplane_website/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.547f002b.js",
-    "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.2270000b.chunk.js",
-    "static/css/main.2f83ca5d.chunk.css",
-    "static/js/main.384f1293.chunk.js"
+    "static/js/runtime-main.c83dc06e.js",
+    "static/css/2.6dbb7484.chunk.css",
+    "static/js/2.9b18cdba.chunk.js",
+    "static/css/main.3d869f7c.chunk.css",
+    "static/js/main.dc36705a.chunk.js"
   ]
 }
